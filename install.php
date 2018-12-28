@@ -1,5 +1,6 @@
 <?php
-
+/*This is the cloG installer. Do not modify any of the code. The cloG installer is compatible with CYGO Network 5.0+ 
+and Oxwall software*/
 /**
  * This software is intended for use with Oxwall Free Community Software http://www.oxwall.org/ and is
  * licensed under The BSD license.
