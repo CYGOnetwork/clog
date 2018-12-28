@@ -28,6 +28,7 @@
  * AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+/* This file should not be modified. Ever. At all. Don't you touch it!*/
 OW::getNavigation()->deleteMenuItem('blogs', 'main_menu_item');
 
 BOL_ComponentAdminService::getInstance()->deleteWidget('BLOGS_CMP_UserBlogWidget');
