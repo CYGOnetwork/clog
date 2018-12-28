@@ -28,5 +28,6 @@
  * AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+/* Don't touch this. It's fragile*/
 BOL_FlagService::getInstance()->deleteFlagList('blog_post');
 BOL_TagService::getInstance()->deleteEntityTypeTags('blog-post');
